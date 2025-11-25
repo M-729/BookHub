@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/BookHub/static/css/main.b980e558.css",
+    "main.js": "/BookHub/static/js/main.f7653c09.js",
+    "static/js/787.d4aba7ab.chunk.js": "/BookHub/static/js/787.d4aba7ab.chunk.js",
+    "static/media/qalbi.jpg": "/BookHub/static/media/qalbi.04396ad956c60ae0c5b2.jpg",
+    "static/media/sahibi.jpg": "/BookHub/static/media/sahibi.4551dfa6dfce194c6e05.jpg",
+    "static/media/richAndPoor.jpg": "/BookHub/static/media/richAndPoor.430425519f7419c254b6.jpg",
+    "static/media/msgsSahaba.webp": "/BookHub/static/media/msgsSahaba.86012cc67f0e4e085ef8.webp",
+    "static/media/fanlamobalat.webp": "/BookHub/static/media/fanlamobalat.0d6f300c8a847d3bfe88.webp",
+    "static/media/msgsQuran.jpg": "/BookHub/static/media/msgsQuran.cdc86eda47c3c66cf015.jpg",
+    "index.html": "/BookHub/index.html",
+    "main.b980e558.css.map": "/BookHub/static/css/main.b980e558.css.map",
+    "main.f7653c09.js.map": "/BookHub/static/js/main.f7653c09.js.map",
+    "787.d4aba7ab.chunk.js.map": "/BookHub/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b980e558.css",
+    "static/js/main.f7653c09.js"
+  ]
+}
